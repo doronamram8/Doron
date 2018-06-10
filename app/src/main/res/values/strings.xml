@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Doron</string>
+    <string name="introadd">Add new Contact...</string>
+    <string name="name">Your Name</string>
+    <string name="phonenum">Phone number</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+
+
+
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:enabled="true"
+        android:title="New..."
+        android:visible="true"
+        android:id="@+id/new1"
+        tools:title="New..."
+        />
+
+</menu>
